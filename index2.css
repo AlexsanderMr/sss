@@ -1,0 +1,28 @@
+
+.block {
+    display: inline-block;
+    width: 300px;
+margin-left :250px ;
+
+}
+.p{
+    width: 290px;
+height: 81px;
+font-size: 15px;
+line-height: 24px;
+color: #999999;
+font-family: "Roboto";
+font-weight: 400;
+}
+.p2{
+    font-size: 14px;
+color: #333333;
+font-family: "Montserrat";
+font-weight: 400;
+transform: unset;
+}
+.img{
+    margin-left: 900px;
+    margin-right: 900PX;
+margin-bottom: 50px;
+}
