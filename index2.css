@@ -1,8 +1,7 @@
-
-.block {
-    display: inline-block;
-    width: 300px;
-margin-left :250px ;
+.block{
+    display: flex;
+    justify-content:space-around;
+ 
 
 }
 .p{
